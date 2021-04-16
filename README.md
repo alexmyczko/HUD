@@ -18,6 +18,7 @@ Minimum
 Optional add ons
 - 1 x [Car charger](https://www.digitec.ch/de/search?filter=t_15988%3D304316%7C304317&q=car+charger+30w&so=5)
 - 1 x RTL-SDR USB stick for extra sensor data (rtl-433, dump1090, welle.io)
+- 1 x [SHT31](https://www.digitec.ch/de/s1/product/sensirion-sht31-entwicklungsboard-kit-9717948?gclid=Cj0KCQjwyN-DBhCDARIsAFOELTm_26hck6XTyOt3p1EEpUqPWCujMSZ_YCDyusBeKREwiLQG-pnhbqgaArZ-EALw_wcB&gclsrc=aw.ds)
 
 # Software Ingredients
 ```
