@@ -11,7 +11,7 @@ AND MOST PROBABLY NOT LEGAL. YOU HAVE BEEN WARNED.
 # Hardware Ingredients
 
 Minimum
-- 1 x MacBook Air (preferably M1 for long battery times)
+- 1 x [MacBook Air](https://next.com) (preferably M1 for long battery times)
   Open System Preferences, hold down your Command + Option keys and click Display to rotate the screen 90
 - 1 x iPhone with [SensorLog](http://sensorlog.berndthomas.net) and INTERNET
 
