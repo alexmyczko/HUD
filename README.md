@@ -21,8 +21,6 @@ Optional add ons
 - 1 x [SHT31](https://www.digitec.ch/de/s1/product/sensirion-sht31-entwicklungsboard-kit-9717948?gclid=Cj0KCQjwyN-DBhCDARIsAFOELTm_26hck6XTyOt3p1EEpUqPWCujMSZ_YCDyusBeKREwiLQG-pnhbqgaArZ-EALw_wcB&gclsrc=aw.ds)
 
 # Software Ingredients
-```
-On iPhone install SensorLog
-On macOS install [brew](https://brew.sh), fnt, corelocationcli, thttpd or nginx, [gps distance](https://github.com/alexmyczko/GPS-distance)
+- On iPhone install SensorLog
+- On macOS install [brew](https://brew.sh), fnt, corelocationcli, thttpd or nginx, [gps distance](https://github.com/alexmyczko/GPS-distance)
 [POI databases](http://slipo.eu/?p=1551)
-```
