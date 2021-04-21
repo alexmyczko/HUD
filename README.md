@@ -15,6 +15,12 @@ Minimum
   Open System Preferences, hold down your Command + Option keys and click Display to rotate the screen 90
 - 1 x iPhone with [SensorLog](http://sensorlog.berndthomas.net) and INTERNET
 
+Roof mount
+- Swiss army knife
+- Electric tape
+- Measure band
+- Piece of metal that can be bent (0.5 - 1.0 mm thick)
+
 Optional add ons
 - 1 x [Car charger](https://www.digitec.ch/de/search?filter=t_15988%3D304316%7C304317&q=car+charger+30w&so=5)
 - 1 x RTL-SDR USB stick for extra sensor data (rtl-433, dump1090, welle.io)
