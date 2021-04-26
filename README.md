@@ -31,3 +31,4 @@ Optional add ons
 - On macOS install [brew](https://brew.sh), fnt, corelocationcli, thttpd or nginx, [gps distance](https://github.com/alexmyczko/GPS-distance)
 - [POI databases](http://slipo.eu/?p=1551)
 - [Fonts that are suitable for HUD](https://github.com/NR74W/WipEout-Fonts)
+- `curl -s https://freegeoip.app/csv/ | awk -F ',' '{print $(NF-2) " " $(NF-1)}'`
